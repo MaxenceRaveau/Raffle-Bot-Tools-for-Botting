@@ -7,8 +7,6 @@ Random Information Generator
 Hi, i made this little tool to help people entering in raffles where you need random info.
 All csv’s will be generated in the folder Generated.
 
-Insert your KicksRafflebot Key into the config file.(Google Api Key is only for Getting random addresses, don’t mind about that if you don't want to generate some)
-
 
 Telephone number Generator
 
@@ -35,11 +33,11 @@ Example : +447700900077. Enter 13
 
 
 
-Dob Generator
+Dob Generator:
 
 No really hard things here, just follow instruction. Also, as mentioned, all date of birth are above 18 years old.
 
-Getting address around you
+Getting address around you:
 
 Setup :
 
@@ -52,7 +50,7 @@ Then, click on library
 Search Geocoding API, click on it, then on enable. (That’s why you guys had trouble with key, thanks Xuan Kickz#5693 who found out this).
 Then go in Credentials, and if you set up all right, it show this:
 
-Insert your API Key into the config file.
+Insert your API Key at the end of the file
 
 
 
