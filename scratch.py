@@ -236,9 +236,6 @@ def reverse_geocoding(key):
 
 
 print('Made by MVoltaj#6005 \n \n')
-config_file = open('Config.json', 'r')
-data = config_file.read()
-data_parsed = json.loads(data)
 API_KEY = ''
 print("Hi, What do you want to do ?")
 print("Telephone number generator (1)")
