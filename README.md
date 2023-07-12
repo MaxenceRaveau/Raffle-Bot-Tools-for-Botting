@@ -8,7 +8,7 @@ Hi, i made this little tool to help people entering in raffles where you need ra
 All csv’s will be generated in the folder Generated.
 
 
-Telephone number Generator
+## Telephone number Generator
 
 What’s the country code of your country ?
 
@@ -33,11 +33,11 @@ Example : +447700900077. Enter 13
 
 
 
-Dob Generator:
+## Dob Generator:
 
 No really hard things here, just follow instruction. Also, as mentioned, all date of birth are above 18 years old.
 
-Getting address around you:
+## Getting address around you:
 
 Setup :
 
@@ -65,7 +65,7 @@ First coordinate is the latitude and the second one is the longitude.
 
 Enter the latitude, then the longitude into the bot
 
-Farest Adress
+Further Adress
 Bot will take addresses in a square around your house.
 
 Enter 1, 3 or 5 depending if you want far addresses from the coordinates you choose or not.
@@ -90,7 +90,7 @@ If the bot is stucked after putting postcode or ‘R’, make sure your coordina
 
 
 
-First / Last Name Generator
+## First / Last Name Generator
 
 Just follow instructions as given.
 File will be generated in First_Last_Name List.csv in the Generated folder.
